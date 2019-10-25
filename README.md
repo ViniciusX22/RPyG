@@ -1,2 +1,3 @@
 # RPyG
-A simple RPG text game made in python
+
+A simple command-based RPG text game made in Python
